@@ -30,6 +30,7 @@ Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempr
 ## Link di approfondimento
 
 * API di JavaFX: consultazione on-line <http://docs.oracle.com/javafx/2/api/index.html>
+* Diagrammi delle classi della libreria JavaFX <http://www.falkhausen.de/JavaFX/index.html>
 * Esempi interattivi di JavaFX sono contenuti nel file "JDK 8 Demos and Samples" <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
 * Documentazione e tutorial JavaFX <http://docs.oracle.com/javase/8/javase-clienttechnologies.htm>
 
