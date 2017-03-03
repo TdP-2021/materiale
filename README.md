@@ -2,6 +2,8 @@
 
 Tutte le informazioni sul corso sono al link <http://bit.ly/tecn-progr>
 
+# Tool
+
 ## Software necessario
 
 Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempre open source.
@@ -26,6 +28,12 @@ Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempr
 * JavaDoc relativo alla JDK ed a JavaFX, utile per avere autocompletamento e documentazione in Eclipse quando non si è connessi ad Internet: <http://docs.oracle.com/javase/8/docs/> e selezionare (nella colonna di sinistra) il link "JDK 8 Documentation", poi scaricare `Java SE Development Kit 8u121 Documentation` e `JavaFX API Documentation`
 * Libreria `c3p0` per implementare il *connection pooling* <http://www.mchange.com/projects/c3p0/>
 * Libreria `SimpleLatLng` per i calcoli con latitudine e longitudine <https://github.com/JavadocMD/simplelatlng>
+
+# Documentazione
+
+## Lucidi del corso
+
+* [JavaFX Crash Course](slides/02-00-javafx-crashcourse.pdf)
 
 ## Link di approfondimento
 
