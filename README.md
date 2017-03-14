@@ -25,7 +25,7 @@ Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempr
 
 ## Download opzionali
 
-* JavaDoc relativo alla JDK ed a JavaFX, utile per avere autocompletamento e documentazione in Eclipse quando non si è connessi ad Internet: <http://docs.oracle.com/javase/8/docs/> e selezionare (nella colonna di sinistra) il link "JDK 8 Documentation", poi scaricare `Java SE Development Kit 8u121 Documentation` e `JavaFX API Documentation`
+* JavaDoc relativo alla JDK ed a JavaFX, utile per avere l'auto-completamento e la documentazione disponibili in Eclipse quando non si è connessi ad Internet: <http://docs.oracle.com/javase/8/docs/> e selezionare (nella colonna di sinistra) il link "JDK 8 Documentation", poi scaricare `Java SE Development Kit 8u121 Documentation` e `JavaFX API Documentation`
 * Libreria `c3p0` per implementare il *connection pooling* <http://www.mchange.com/projects/c3p0/>
 * Libreria `SimpleLatLng` per i calcoli con latitudine e longitudine <https://github.com/JavadocMD/simplelatlng>
 
@@ -43,4 +43,3 @@ Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempr
 * Diagrammi delle classi della libreria JavaFX <http://www.falkhausen.de/JavaFX/index.html>
 * Esempi interattivi di JavaFX sono contenuti nel file "JDK 8 Demos and Samples" <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
 * Documentazione e tutorial JavaFX <http://docs.oracle.com/javase/8/javase-clienttechnologies.htm>
-
