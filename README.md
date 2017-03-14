@@ -34,6 +34,8 @@ Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempr
 ## Lucidi del corso
 
 * [JavaFX Crash Course](slides/02-00-javafx-crashcourse.pdf)
+* [Java Collections Framework](slides/01-JavaCollectionFramework.pdf)
+* [Git and GitHub](slides/Git-01-intro.pdf)
 
 ## Link di approfondimento
 
