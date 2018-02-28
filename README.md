@@ -8,13 +8,13 @@ Tutte le informazioni sul corso sono al link <http://bit.ly/tecn-progr>
 
 Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempre open source.
 
-1. Java Development Kit (JDK), versione 8: <http://www.oracle.com/technetwork/java/javase/downloads/index.html> (selezionare JDK e poi la versione del `Java SE Development Kit 8u121` corrispondente al vostro sistema operativo)
-* Eclipse, versione Neon: <http://www.eclipse.org/downloads/>. Si suggerisce di selezionare `Get Eclipse Neon` e scegliere di installare `Eclipse IDE for Java Developers` (oppure `Eclipse IDE for Java EE Developers` se si intende sviluppare anche applicazioni Web con Java -- non necessario in questo corso).
-* Plugin `e(fx)clipse` di Eclipse. Il plugin si installa dal Marketplace di Eclipse (menu Help): ricercare `javafx` e selezionare `e(fx)clipse 2.4.0`
-* Editor di interfacce utente Scene Builder, scaricabile da <http://gluonhq.com/open-source/scene-builder/>
+* Java Development Kit (JDK), versione 8: <http://www.oracle.com/technetwork/java/javase/downloads/index.html> (selezionare JDK e poi la versione del `Java SE Development Kit 8u121` corrispondente al vostro sistema operativo)
+* Eclipse, versione Oxygen: <http://www.eclipse.org/downloads/>. Si suggerisce di scaricare il programma di installazione alla voce `Get Eclipse Oxygen` e scegliere di installare `Eclipse IDE for Java Developers` (oppure `Eclipse IDE for Java EE Developers` se si intende sviluppare anche applicazioni Web con Java -- non necessario in questo corso).
+* Plugin `e(fx)clipse` di Eclipse. Il plugin si installa dal Marketplace di Eclipse (menu Help): ricercare `javafx` e selezionare `e(fx)clipse 3.0`
+* Editor di interfacce utente Scene Builder, scaricabile da <http://gluonhq.com/open-source/scene-builder/>, corrispondente alla versione di Java installata.
 * Un database server MySQL, a scelta tra:
   * Oracle `MySQL Community Server` <http://dev.mysql.com/downloads/mysql/>, versione 5.7+
-  * Il server `MariaDB` <https://downloads.mariadb.org/>, versione 10.1+ (nota: scegliere di *non* installare `HeidiSQL` in quanto è una versione vecchia)
+  * Il server `MariaDB` <https://downloads.mariadb.org/>, versione 10.2 (nota: scegliere di *non* installare `HeidiSQL` in quanto è una versione vecchia)
   * Il pacchetto `XAMPP` (che contiene un server mySQL integrato) <https://www.apachefriends.org/download.html>, versione 5.6.30
 * Un front-end per MySQL, a scelta tra:
   * `HeidiSQL` <http://www.heidisql.com/download.php>, leggero, veloce ma solo per Windows
@@ -31,7 +31,7 @@ Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempr
 
 # Documentazione
 
-## [Lucidi del corso](https://github.com/TdP-2017/materiale/tree/master/slides)
+## [Lucidi del corso](https://github.com/TdP-2018/materiale/tree/master/slides)
 
 
 ## Link di approfondimento
