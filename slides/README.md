@@ -11,3 +11,6 @@
 ## 3. Strutture dati
 * [Java Collections Framework](03-01-JavaCollectionFramework.pdf)
 * [List](03-02-Lists.pdf)
+
+## 4. Database
+* [Database access and JDBC](04-01-jdbc-dao.pdf)
