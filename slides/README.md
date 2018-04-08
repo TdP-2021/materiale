@@ -14,3 +14,6 @@
 
 ## 4. Database
 * [Database access and JDBC](04-01-jdbc-dao.pdf)
+
+## 5. Algoritmi
+* [Ricorsione](05-01-recursion.pdf)
