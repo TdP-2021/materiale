@@ -11,9 +11,15 @@
 ## 3. Strutture dati
 * [Java Collections Framework](03-01-JavaCollectionFramework.pdf)
 * [List](03-02-Lists.pdf)
+* [Set & Hash](03-03-Sets&Hash.pdf)
+* [Map](03-04-Map.pdf)
 
 ## 4. Database
 * [Database access and JDBC](04-01-jdbc-dao.pdf)
 
 ## 5. Algoritmi
 * [Ricorsione](05-01-recursion.pdf)
+* [Quadrato Magico](05-03-magic_square.pdf)
+* [Introduzione alla Complessità](05-02-complexity.pdf)
+
+## 6. Grafi
