@@ -13,6 +13,7 @@
 * [List](03-02-Lists.pdf)
 * [Set & Hash](03-03-Sets&Hash.pdf)
 * [Map](03-04-Map.pdf)
+* [Date e Time in Java e in SQL](03-05-JavaDatesTimes.pdf)
 
 ## 4. Database
 * [Database access and JDBC](04-01-jdbc-dao.pdf)
