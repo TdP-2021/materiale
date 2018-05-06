@@ -24,3 +24,5 @@
 * [Introduzione alla Complessità](05-02-complexity.pdf)
 
 ## 6. Grafi
+* [Introduzione ai grafi](06-01-intro-graphs.pdf)
+* [La libreria jGraphT](06-02-jGraphT-library.pdf)
