@@ -8,20 +8,16 @@ Tutte le informazioni sul corso sono al link <http://bit.ly/tecn-progr>
 
 Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempre open source.
 
-* Java Development Kit (JDK), versione 8: <http://www.oracle.com/technetwork/java/javase/downloads/index.html> (selezionare JDK e poi la versione del `Java SE Development Kit 8u121` corrispondente al vostro sistema operativo)
-* Eclipse, versione Oxygen: <http://www.eclipse.org/downloads/>. Si suggerisce di scaricare il programma di installazione alla voce `Get Eclipse Oxygen` e scegliere di installare `Eclipse IDE for Java Developers` (oppure `Eclipse IDE for Java EE Developers` se si intende sviluppare anche applicazioni Web con Java -- non necessario in questo corso).
-* Plugin `e(fx)clipse` di Eclipse. Il plugin si installa dal Marketplace di Eclipse (menu Help): ricercare `javafx` e selezionare `e(fx)clipse 3.0`
-* Editor di interfacce utente Scene Builder, scaricabile da <http://gluonhq.com/open-source/scene-builder/>, corrispondente alla versione di Java installata.
-* Un database server MySQL, a scelta tra:
-  * Oracle `MySQL Community Server` <http://dev.mysql.com/downloads/mysql/>, versione 5.7+
-  * Il server `MariaDB` <https://downloads.mariadb.org/>, versione 10.2 (nota: scegliere di *non* installare `HeidiSQL` in quanto è una versione vecchia)
-  * Il pacchetto `XAMPP` (che contiene un server mySQL integrato) <https://www.apachefriends.org/download.html>, versione 5.6.30
-* Un front-end per MySQL, a scelta tra:
-  * `HeidiSQL` <http://www.heidisql.com/download.php>, leggero, veloce ma solo per Windows
-  * `MySQL Workbench` <http://dev.mysql.com/downloads/workbench/>, più completo, con progettazione grafica delle tabelle, ma più complesso da usare e molto più lento, disponibile per tutti i sistemi operativi
-  * `Sequel Pro` <http://www.sequelpro.com/>, per Mac OS X
-* La libreria `MySQL Connector/J` <http://dev.mysql.com/downloads/connector/j/>
-* La libreria `jGraphT` <http://jgrapht.org/> (comprende anche i JavaDoc)
+* Java Development Kit (JDK)
+* Eclipse
+* Plugin `e(fx)clipse` di Eclipse
+* Editor di interfacce utente Scene Builder
+* Un database server MySQL
+* Un front-end per MySQL
+* La libreria `MySQL Connector/J`
+* La libreria `jGraphT`
+
+Si veda il documento con le [istruzioni di installazione](./install-instructions/software-install.md)
 
 ## Download opzionali
 
@@ -31,7 +27,7 @@ Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempr
 
 # Documentazione
 
-## [Lucidi del corso](https://github.com/TdP-2018/materiale/tree/master/slides)
+## [Lucidi del corso](https://github.com/TdP-2019/materiale/tree/master/slides)
 
 
 ## Link di approfondimento
