@@ -62,11 +62,18 @@
 
 ## Installare un'interfaccia di gestione del database
 
-### Opzione 1: HeidiSQL
+### Opzione 1 (per Windows): HeidiSQL
 
 * Visitare il sito di [HeidiSQL](https://www.heidisql.com/)
 * Dalla pagina `Downloads`, selezionare `Installer, 32/64 bit combined`
 * Scaricare ed installare il programma
+
+### Opzione 1 (per Mac): SequelPro
+
+* Visitare il sito di [SequelPro](https://www.sequelpro.com/)
+* Selezionare 'Download'
+* Scaricare ed installare il programma
+
 
 ### Opzione 2: MySQL Workbench
 
@@ -74,6 +81,17 @@
 
 ## Installare il Driver JDBC per MySQL/MariaDB
 
+Nota: le due opzioni seguenti sono alternative equivalenti. Per essere chiari: il MySQL Connector/J funziona sia con MySQL che con MariaDB; il MariaDB Connector/J funziona sia con MySQL che con MariaDB.
+
+### Opzione 1: MySQL Connector/J di Oracle
+
 * Scaricare il pacchetto `Connector/J` dal sito [dev.mysql.com](https://dev.mysql.com/downloads/connector/j/)
 * È possibile selezionare la voce `Platform Independent` per scaricare il pacchetto *Platform Independent (Architecture Independent), ZIP Archive*, che contiene il file `mysql-connector-java-8.0.15.zip`
 * Scompattare il file zip in una cartella a scelta, in particolare sarà necessario il file `mysql-connector-java-8.0.15.jar`
+
+### Opzione 2: MariaDB Connector/J di MariaDB
+
+- Visitare  [https://mariadb.com/kb/en/library/about-mariadb-connector-j/](https://mariadb.com/kb/en/library/about-mariadb-connector-j/)
+- Selezionare "Download MariaDB Connector/J"
+- Nella pagina successiva selezionare "Java 8 connector" e poi Download
+- Si ottiene il file `mariadb-java-client-2.4.1.jar` che è proprio la libreria che contiene il Driver JDBC voluto.
