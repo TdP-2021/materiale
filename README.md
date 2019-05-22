@@ -14,7 +14,7 @@ Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempr
 * Editor di interfacce utente Scene Builder
 * Un database server MySQL
 * Un front-end per MySQL
-* La libreria `MySQL Connector/J`
+* La libreria `MySQL Connector/J` oppure `MariaDB Connector/J`
 * La libreria `jGraphT`
 
 Si veda il **documento con le [istruzioni di installazione](./install-instructions/software-install.md)**
@@ -33,6 +33,7 @@ Si veda il **documento con le [istruzioni di installazione](./install-instructio
 ## FAQ (domande frequenti e risposte a problemi ricorrenti)
 
 *  [Come risolvere il problema `The server time zone value 'ora solare Europa occidentale' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.`](./faq/timezone.md)
+* [Come risolvere un problema in cui le query che filtrano su una colonna di tipo `DATE` restituiscono il giorno *precedente* a quello voluto](./faq/conversione-date.md)
 
 ## Link di approfondimento
 
