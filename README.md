@@ -8,16 +8,15 @@ Tutte le informazioni sul corso sono al link <http://bit.ly/tecn-progr>
 
 Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempre open source.
 
-* Java Development Kit (JDK)
+* Java Development Kit (JDK), versione 11 LTS
 * Eclipse
-* Plugin `e(fx)clipse` di Eclipse
 * Editor di interfacce utente Scene Builder
 * Un database server MySQL
 * Un front-end per MySQL
 * La libreria `MySQL Connector/J` oppure `MariaDB Connector/J`
 * La libreria `jGraphT`
 
-Si veda il **documento con le [istruzioni di installazione](./install-instructions/software-install.md)**
+Si veda il **documento con le [istruzioni di installazione](software-install.pdf)** (disponibile a breve)
 
 ## Download opzionali
 
@@ -28,7 +27,7 @@ Si veda il **documento con le [istruzioni di installazione](./install-instructio
 # Documentazione
 
 ## Lucidi del corso
-* Vai alla cartella contenente i [lucidi del corso](https://github.com/TdP-2019/materiale/tree/master/slides)
+* Vai alla cartella contenente i [lucidi del corso](https://github.com/TdP-2020/materiale/tree/master/slides)
 
 ## FAQ (domande frequenti e risposte a problemi ricorrenti)
 
