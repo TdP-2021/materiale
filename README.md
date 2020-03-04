@@ -8,7 +8,7 @@ Tutte le informazioni sul corso sono al link <http://bit.ly/tecn-progr>
 
 Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempre open source.
 
-* Java Development Kit (JDK), versione 11 LTS
+* Java Development Kit (JDK), versione 11 LTS (per Mac OS X, consigliamo di installare la versione JDK 13)
 * Eclipse
 * Editor di interfacce utente Scene Builder
 * Un database server MySQL
@@ -16,7 +16,7 @@ Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempr
 * La libreria `MySQL Connector/J` oppure `MariaDB Connector/J`
 * La libreria `jGraphT`
 
-Si veda il **documento con le [istruzioni di installazione](software-install.pdf)** (disponibile a breve)
+Si veda il **documento con le istruzioni di installazione per [Windows](software-install-windows.pdf) e per [macOS X](software-install-macos.pdf)**
 
 ## Download opzionali
 
