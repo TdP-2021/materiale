@@ -1,14 +1,17 @@
 # TdP-2020 slides
 
 ## 1. Introduzione
+
 * [Introduzione al corso](01-01-introduzione_2020.pdf)
-* [Introdzione a Git e GitHub](01-02-Git-quickintro)
+* [Introduzione a Git e GitHub](01-02-Git-quickintro.pdf)
 
 ## 2. JavaFX
+
 * [JavaFX Crash Course](02-01-javafx-crashcourse.pdf)
 * [Pattern Model-View-Controller](02-02-javafx-mvc-pattern.pdf)
 
 ## 3. Strutture dati
+
 * [Java Collections Framework](03-01-JavaCollectionFramework.pdf)
 * [List](03-02-Lists.pdf)
 * [Set & Hash](03-03-Sets&Hash.pdf)
@@ -17,14 +20,17 @@
 * [Queue e Priority Queue](03-09-Queue.pdf)
 
 ## 4. Database
+
 * [Database access and JDBC](04-01-jdbc-dao.pdf)
 
 ## 5. Algoritmi
+
 * [Ricorsione](05-01-recursion.pdf)
 * [Introduzione alla Complessità](05-02-complexity.pdf)
 * [Quadrato Magico](05-03-magic_square.pdf)
 
 ## 6. Grafi
+
 * [Introduzione ai grafi](06-01-intro-graphs.pdf)
 * [La libreria jGraphT](06-02-jGraphT-library.pdf)
 * [Visite nei grafi](06-03-graphs-visits.pdf)
@@ -32,4 +38,5 @@
 * [Cicli Euleriani e Cicli Hamiltoniani](06-05-graph-cycles.pdf)
 
 ## 7. Simulazioni ad eventi
+
 * [Simulazioni ad eventi](07-01-simulation.pdf)
