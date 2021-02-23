@@ -16,7 +16,7 @@ Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempr
 * La libreria `MySQL Connector/J` oppure `MariaDB Connector/J`
 * La libreria `jGraphT`
 
-Si veda il **documento con le istruzioni di installazione per [Windows](software-install-windows.pdf) e per [macOS X](software-install-macos.pdf)**
+Si veda il **documento con le istruzioni di installazione per [Windows](software-install-windows.pdf) e per [macOS X](./info/installazione_software_MAC.pdf)**
 
 ## Download opzionali
 
@@ -27,7 +27,7 @@ Si veda il **documento con le istruzioni di installazione per [Windows](software
 # Documentazione
 
 ## Lucidi del corso
-* Vai alla cartella contenente i [lucidi del corso](https://github.com/TdP-2020/materiale/tree/master/slides)
+* Vai alla cartella contenente i [lucidi del corso](https://github.com/TdP-2021/materiale/tree/master/slides)
 
 ## FAQ (domande frequenti e risposte a problemi ricorrenti)
 
