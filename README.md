@@ -16,7 +16,7 @@ Nota: per scelta didattica, tutto il software indicato è gratuito e quasi sempr
 * La libreria `MySQL Connector/J` oppure `MariaDB Connector/J`
 * La libreria `jGraphT`
 
-Si veda il **documento con le istruzioni di installazione per [Windows](software-install-windows.pdf) e per [macOS X](./info/installazione_software_MAC.pdf)**
+Si veda il **documento con le istruzioni di installazione per [Windows](./info/installazione_software_WIN.pdf) e per [macOS X](./info/installazione_software_MAC.pdf)**
 
 ## Download opzionali
 
