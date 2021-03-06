@@ -5,7 +5,7 @@ Nota: i lucidi indicati con ⏳ indicano slide dello scorso anno accademico, in 
 ## 1. Introduzione
 
 * [Introduzione al corso](01-01-introduzione_2021.pdf)
-* ⏳ [Introduzione a Git e GitHub](01-02-Git-quickintro.pdf)
+* [Introduzione a Git e GitHub](01-02-Git-quickintro.pdf)
 
 ## 2. JavaFX
 
