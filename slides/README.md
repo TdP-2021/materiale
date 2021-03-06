@@ -10,7 +10,7 @@ Nota: i lucidi indicati con ⏳ indicano slide dello scorso anno accademico, in 
 ## 2. JavaFX
 
 * [JavaFX Crash Course](02-01-javafx-crashcourse.pdf)
-* ⏳ [Pattern Model-View-Controller](02-02-javafx-mvc-pattern.pdf)
+* [Pattern Model-View-Controller](02-02-javafx-mvc-pattern.pdf)
 
 ## 3. Strutture dati
 
