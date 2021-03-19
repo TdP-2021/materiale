@@ -24,7 +24,7 @@ Nota: i lucidi indicati con ⏳ indicano slide dello scorso anno accademico, in 
 
 ## 4. Database
 
-* ⏳ [Database access and JDBC](04-01-jdbc-dao.pdf)
+* [Database access and JDBC](04-01-jdbc-dao.pdf)
 
 ## 5. Algoritmi
 
