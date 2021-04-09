@@ -29,7 +29,7 @@ Nota: i lucidi indicati con ⏳ indicano slide dello scorso anno accademico, in 
 ## 5. Algoritmi
 
 * [Ricorsione](05-01-recursion.pdf)
-* ⏳ [Introduzione alla Complessità](05-02-complexity.pdf)
+* [Introduzione alla Complessità](05-02-complexity.pdf)
 * ⏳ [Quadrato Magico](05-03-magic_square.pdf)
 
 ## 6. Grafi
