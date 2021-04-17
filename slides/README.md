@@ -18,7 +18,7 @@ Nota: i lucidi indicati con ⏳ indicano slide dello scorso anno accademico, in 
 * ⏳ [List](03-02-Lists.pdf)
 * [Set & Hash](03-03-Sets&Hash.pdf)
 * [Map](03-04-Map.pdf)
-* ⏳ [Date e Time in Java e in SQL](03-05-JavaDatesTimes.pdf)
+* [Date e Time in Java e in SQL](03-05-JavaDatesTimes.pdf)
 * ⏳ [Alberi, alberi binari e BST](03-06-Trees-BTrees.pdf)
 * ⏳ [Queue e Priority Queue](03-07-Queue.pdf)
 
