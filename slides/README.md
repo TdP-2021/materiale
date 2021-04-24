@@ -30,12 +30,11 @@ Nota: i lucidi indicati con ⏳ indicano slide dello scorso anno accademico, in 
 
 * [Ricorsione](05-01-recursion.pdf)
 * [Introduzione alla Complessità](05-02-complexity.pdf)
-* ⏳ [Quadrato Magico](05-03-magic_square.pdf)
 
 ## 6. Grafi
 
-* ⏳ [Introduzione ai grafi](06-01-intro-graphs.pdf)
-* ⏳ [La libreria jGraphT](06-02-jGraphT-library.pdf)
+* [Introduzione ai grafi](06-01-intro-graphs.pdf)
+* [La libreria jGraphT](06-02-jGraphT-library.pdf)
 * ⏳ [Visite nei grafi](06-03-graphs-visits.pdf)
 * ⏳ [Cammini minimi nei grafi](06-04-graphs-shortestpaths.pdf)
 * ⏳ [Cicli Euleriani e Cicli Hamiltoniani](06-05-graph-cycles.pdf)
