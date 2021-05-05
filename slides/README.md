@@ -35,8 +35,8 @@ Nota: i lucidi indicati con ⏳ indicano slide dello scorso anno accademico, in 
 
 * [Introduzione ai grafi](06-01-intro-graphs.pdf)
 * [La libreria jGraphT](06-02-jGraphT-library.pdf)
-* ⏳ [Visite nei grafi](06-03-graphs-visits.pdf)
-* ⏳ [Cammini minimi nei grafi](06-04-graphs-shortestpaths.pdf)
+* [Visite nei grafi](06-03-graphs-visits.pdf)
+* [Cammini minimi nei grafi](06-04-graphs-shortestpaths.pdf)
 * ⏳ [Cicli Euleriani e Cicli Hamiltoniani](06-05-graph-cycles.pdf)
 
 ## 7. Simulazioni ad eventi
